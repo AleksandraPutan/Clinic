@@ -1,0 +1,16 @@
+# Java
+*.class
+target/
+build/
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Системные
+.DS_Store
+Thumbs.db
